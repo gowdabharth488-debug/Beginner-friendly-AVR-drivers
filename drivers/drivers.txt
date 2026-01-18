@@ -1,1 +1,28 @@
+## ⚠️ Disclaimer
+> This code is designed **ONLY for AVR microcontrollers**.  
+>  
+> ❌ It will **NOT work on Windows, Linux, macOS, or any non-AVR platform**.  
+>  
+> The code directly accesses **AVR hardware registers**, which are unavailable outside AVR devices.  
+>  
+> The provided examples are for **learning and reference purposes only**.  
+> Users must adapt and test the code based on their specific hardware, clock frequency, and application requirements.
+
+---
+
+## 🛠️ Requirements
+- AVR microcontroller
+- AVR-GCC toolchain
+- Microchip Studio / Atmel Studio / PlatformIO
+- Basic knowledge of embedded C
+
+---
+
+## 🚀 How to Use
+1. Clone or download the repository  
+2. Copy the required driver files into your project  
+3. Include the header file  
+4. Initialize the driver and use the APIs  
+
+
 
